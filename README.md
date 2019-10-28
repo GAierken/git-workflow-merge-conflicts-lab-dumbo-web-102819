@@ -9,8 +9,7 @@
 
 In order to complete this lab, please be sure to clone it from the following source:
 
-https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab
-
+cd git-merge-conflicts-< your cohort identifier >
 This is required because our teaching system works to make sure we don't deploy
 "broken git repositories" to our learners. But we're trying to teach you to work with...
 broken git repositories 😂. Cloning from the URL above, into a new directory is the
